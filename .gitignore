@@ -1,0 +1,6 @@
+# Chrome 配置目录里有登录 cookie，绝对不要提交
+chrome_profile*/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
